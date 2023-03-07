@@ -5,7 +5,7 @@ sum = var1+var2
 diff = var1-var2
 prod = var1*var2
 
-print("\nFirst variable is:",. var1)
+print("\nFirst variable is:", var1)
 print("Second variable is:", var2)
 
 print("Summation of these variable is:", sum)
