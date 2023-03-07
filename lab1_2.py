@@ -5,9 +5,9 @@ sum = var1+var2
 diff = var1-var2
 prod = var1*var2
 
-print("\nFirst variable is:"+str(var1))
-print("Second variable is:"+str(var2))
+print("\nFirst variable is:", var1)
+print("Second variable is:", var2)
 
-print("Summation of these variable is:" + str(sum))
-print("Difference of these variable is:" + str(diff))
-print("Multiplication of these variable is:" + str(prod))
+print("Summation of these variable is:", sum)
+print("Difference of these variable is:", diff)
+print("Multiplication of these variable is:", prod)
